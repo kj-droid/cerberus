@@ -1,7 +1,7 @@
 
 # Cerberus Firewall
 
-Cerberus is a powerful and configurable firewall for advanced security needs.
+Cerberus is a multi-headed dog that guards the gates of the Underworld to prevent the dead from leaving. In this case it is a configurable firewall for basic security needs.
 
 ## Features
 
